@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liu/Desktop/PowerControl/E:\\AndroidProject\\chengzhangjiyi\\code\\PowerControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/liu/Desktop/PowerControl/E:\\AndroidProject\\chengzhangjiyi\\code\\PowerControl\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/Users/liu/Desktop/PowerControl/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/liu/Desktop/PowerControl/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/android/Source/PowerControl/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/android/Source/PowerControl/app/src/main/res/menu/main.xml"
+    }
+]
